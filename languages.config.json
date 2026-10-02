@@ -1,5 +1,5 @@
 {
-  "owners": ["phetzy", "getdomovoi", "northgrade", "3d-pass", "mapwright"],
+  "owners": ["phetzy", "getdomovoi", "northgrade", "3d-pass"],
   "includePrivate": true,
   "excludeRepos": ["phetzy/dots_gnome", "phetzy/hyprland_dots"],
   "excludeLanguages": [],

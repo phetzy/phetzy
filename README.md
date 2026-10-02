@@ -1,8 +1,8 @@
 # Hi, I'm Fetzy 👋
 
 Software engineer in Boise, ID, working remote. I build AI agent tooling, self-hosted cloud
-platforms, and game server tooling. Software Engineer at C1 and founder of
-[Mapwright](https://mapwright.io).
+platforms, and game server tooling. Software Engineer at C1. Previously founded Mapwright,
+self-hosted map infrastructure (acquired).
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -27,7 +27,6 @@ platforms, and game server tooling. Software Engineer at C1 and founder of
 
 **Cloud and self-hosting**
 
-- [Mapwright](https://mapwright.io): self-hosted map infrastructure. Tiles, styles, geocoding, routing, and static maps behind a Mapbox-compatible API.
 - A self-hosted AI platform on K3s: private LLM and RAG services with a guarded, read-only ops agent.
 - [fetzycloud.online](https://fetzycloud.online): my personal site, rendered as a terminal program in Go and React.
 
