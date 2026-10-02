@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: 22
       - name: Test
-        run: node --test scripts/languages/
+        run: node --test scripts/languages/lib.test.mjs
       - name: Build cards
         env:
           # The default GITHUB_TOKEN cannot read private repos in other orgs, so a PAT is required.
