@@ -1,0 +1,7 @@
+{
+  "owners": ["phetzy", "getdomovoi", "northgrade", "3d-pass", "mapwright"],
+  "includePrivate": true,
+  "excludeRepos": ["phetzy/dots_gnome", "phetzy/hyprland_dots"],
+  "excludeLanguages": [],
+  "top": 8
+}

@@ -43,9 +43,10 @@ platforms, and game server tooling. Software Engineer at C1 and founder of
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=phetzy&show_icons=true&hide_border=true&theme=catppuccin_mocha" />
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=phetzy&show_icons=true&hide_border=true&theme=catppuccin_latte" height="165" />
   </picture>
+  <!-- Built weekly by .github/workflows/languages.yml from personal and org repos. -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=phetzy&layout=compact&hide_border=true&theme=catppuccin_mocha" />
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phetzy&layout=compact&hide_border=true&theme=catppuccin_latte" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages-dark.svg" />
+    <img alt="Most used languages" src="./assets/languages-light.svg" height="165" />
   </picture>
 </p>
 
